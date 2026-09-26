@@ -1,0 +1,5 @@
+.DS_Store
+assets/video/work/
+assets/video/output/*/*
+!assets/video/output/*/translated_pure.mp4
+!assets/video/output/*/translated_mix.mp4
